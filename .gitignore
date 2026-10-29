@@ -33,3 +33,4 @@ Thumbs.db
 .eslintcache
 .parcel-cache
 .vite/
+*.timestamp-*.mjs
